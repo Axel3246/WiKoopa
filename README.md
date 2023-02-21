@@ -1,5 +1,6 @@
 <!-- Brandon Hdz -->
 <!-- Ivan -->
+<!-- Ricardo Rdz -->
 
 <a name="readme-top"></a>
 <!-- Test -->
