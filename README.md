@@ -26,7 +26,7 @@
 Here you'll find the team that will make possible this project. Feel free to check out their GitHub profiles too!
 
 <a href="https://github.com/axel3246/wikoopa/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=axel3246/wikoopa" />
+  <img src="https://stg.contrib.rocks/image?repo=axel3246/wikoopa" />
 </a>
 
 <p align="right">(<a href="#readme-top">Take me up!</a>)</p>
